@@ -1,0 +1,813 @@
+{
+ "https://www.mlp.cz/cz/akce?field_event_type_target_id=11&nid_entityreference_filter=571&field_event_instance_time_range_value=": {
+  "status": 200,
+  "items": 24,
+  "text": "Filmy více Film Pro dospělé Chlapectví Ústřední knihovna 23. 11. 2026 (po), 19:00–22:30 Vstupné 120 Kč Koupit Film Pro dospělé V srdci divočiny Ústřední knihovna 24. 11. 2026 (út), 16:00–18:00 Vstupné",
+  "refs": [
+   [
+    "https://www.mlp.cz/cz/novinky/kino-v-knihovne",
+    "Aktuální program kina >>>"
+   ]
+  ]
+ },
+ "https://www.mlp.cz/cz/akce?field_event_type_target_id=11&nid_entityreference_filter=554&field_event_instance_time_range_value=": {
+  "status": 200,
+  "items": 24,
+  "text": "Filmy více Film Pro dospělé Kluci to vidí jinak než holky Petřiny 24. 11. 2026 (út), 18:30–20:30 Vstupné 120 Kč Koupit Film Pro dospělé Proč bychom se nezabili Petřiny 26. 11. 2026 (čt), 16:00–17:30 V",
+  "refs": [
+   [
+    "https://www.mlp.cz/cz/novinky/kino-v-knihovne",
+    "Aktuální program kina >>>"
+   ]
+  ]
+ },
+ "https://www.mlp.cz/akce/vsechny-akce?nid_entityreference_filter=536": {
+  "status": 200,
+  "items": 26,
+  "text": "Typ akce Divadlo Festival Film Hry Hudba Kurz Literatura Přednáška Seminář Setkání Tanec Vycházka Výstava Výtvarná dílna Vzdělání Workshop Pobočka Všechny pobočky Barrandov Bohnice Břevnov Brusnice - ",
+  "refs": [
+   [
+    "https://www.mlp.cz/cz/novinky/jezerku-ceka-rok-plny-novinek",
+    "Akce pobočky pobočky Jezerka >>>"
+   ],
+   [
+    "https://www.mlp.cz/cz/pobocky/jezerka",
+    "Akce na pobočce"
+   ],
+   [
+    "https://www.mlp.cz/cz/pobocky/jezerka",
+    "Všechny akce na pobočce"
+   ],
+   [
+    "https://www.mlp.cz/cz/pobocky/jezerka",
+    "více"
+   ]
+  ]
+ },
+ "https://www.mlp.cz/akce/vsechny-akce?nid_entityreference_filter=554": {
+  "status": 200,
+  "items": 26,
+  "text": "Typ akce Divadlo Festival Film Hry Hudba Kurz Literatura Přednáška Seminář Setkání Tanec Vycházka Výstava Výtvarná dílna Vzdělání Workshop Pobočka Všechny pobočky Barrandov Bohnice Břevnov Brusnice - ",
+  "refs": [
+   [
+    "https://www.mlp.cz/cz/novinky/jaro-na-petrinach-od-novych-zacatku-k-oslave-komunity",
+    "Akce na Petřinách"
+   ],
+   [
+    "https://www.mlp.cz/cz/pobocky/petriny",
+    "Akce na pobočce"
+   ],
+   [
+    "https://www.mlp.cz/cz/pobocky/petriny",
+    "Všechny akce na pobočce"
+   ],
+   [
+    "https://www.mlp.cz/cz/pobocky/petriny",
+    "více"
+   ]
+  ]
+ },
+ "https://www.mlp.cz/akce/vsechny-akce?field_event_type_target_id=11&nid_entityreference_filter=571&field_event_instance_time_range_value=2026-03-12&field_event_instance_time_range_value_1=2026-03-19&field_event_audience_value=0": {
+  "status": 200,
+  "items": 0,
+  "text": "Typ akce Divadlo Festival Film Hry Hudba Kurz Literatura Přednáška Seminář Setkání Tanec Vycházka Výstava Výtvarná dílna Vzdělání Workshop Pobočka Všechny pobočky Barrandov Bohnice Břevnov Brusnice - ",
+  "refs": [
+   [
+    "https://www.mlp.cz/cz/novinky/knihovna-na-veletrzich-i-jako-hostitel-festivalu",
+    "Projekce v Ústřední knihovně"
+   ]
+  ]
+ },
+ "https://www.mlp.cz/akce/vsechny-akce?nid_entityreference_filter=521": {
+  "status": 200,
+  "items": 10,
+  "text": "Typ akce Divadlo Festival Film Hry Hudba Kurz Literatura Přednáška Seminář Setkání Tanec Vycházka Výstava Výtvarná dílna Vzdělání Workshop Pobočka Všechny pobočky Barrandov Bohnice Břevnov Brusnice - ",
+  "refs": [
+   [
+    "https://www.mlp.cz/cz/pobocky/barrandov",
+    "Akce na pobočce"
+   ],
+   [
+    "https://www.mlp.cz/cz/pobocky/barrandov",
+    "Všechny akce na pobočce"
+   ],
+   [
+    "https://www.mlp.cz/cz/pobocky/barrandov",
+    "více"
+   ]
+  ]
+ },
+ "https://www.mlp.cz/akce/vsechny-akce?nid_entityreference_filter=522": {
+  "status": 200,
+  "items": 18,
+  "text": "Typ akce Divadlo Festival Film Hry Hudba Kurz Literatura Přednáška Seminář Setkání Tanec Vycházka Výstava Výtvarná dílna Vzdělání Workshop Pobočka Všechny pobočky Barrandov Bohnice Břevnov Brusnice - ",
+  "refs": [
+   [
+    "https://www.mlp.cz/cz/pobocky/bohnice",
+    "Akce na pobočce"
+   ],
+   [
+    "https://www.mlp.cz/cz/pobocky/bohnice",
+    "Všechny akce na pobočce"
+   ],
+   [
+    "https://www.mlp.cz/cz/pobocky/bohnice",
+    "více"
+   ]
+  ]
+ },
+ "https://www.mlp.cz/akce/vsechny-akce?nid_entityreference_filter=524": {
+  "status": 200,
+  "items": 8,
+  "text": "Typ akce Divadlo Festival Film Hry Hudba Kurz Literatura Přednáška Seminář Setkání Tanec Vycházka Výstava Výtvarná dílna Vzdělání Workshop Pobočka Všechny pobočky Barrandov Bohnice Břevnov Brusnice - ",
+  "refs": [
+   [
+    "https://www.mlp.cz/cz/pobocky/brevnov",
+    "Akce na pobočce"
+   ],
+   [
+    "https://www.mlp.cz/cz/pobocky/brevnov",
+    "Všechny akce na pobočce"
+   ],
+   [
+    "https://www.mlp.cz/cz/pobocky/brevnov",
+    "více"
+   ]
+  ]
+ },
+ "https://www.mlp.cz/akce/vsechny-akce?nid_entityreference_filter=525": {
+  "status": 200,
+  "items": 2,
+  "text": "Typ akce Divadlo Festival Film Hry Hudba Kurz Literatura Přednáška Seminář Setkání Tanec Vycházka Výstava Výtvarná dílna Vzdělání Workshop Pobočka Všechny pobočky Barrandov Bohnice Břevnov Brusnice - ",
+  "refs": [
+   [
+    "https://www.mlp.cz/cz/pobocky/chodov",
+    "Akce na pobočce"
+   ],
+   [
+    "https://www.mlp.cz/cz/pobocky/chodov",
+    "Všechny akce na pobočce"
+   ],
+   [
+    "https://www.mlp.cz/cz/pobocky/chodov",
+    "více"
+   ]
+  ]
+ },
+ "https://www.mlp.cz/akce?field_event_type_target_id=15&nid_entityreference_filter=525&field_event_instance_time_range_value=": {
+  "status": 200,
+  "items": 18,
+  "text": "Koncerty, divadlo, tanec více Divadlo Pro rodiče a děti Tři zlaté vlasy děda Vševěda Ústřední knihovna - Divadlo říše loutek 22. 11. 2026 (ne), 16:00–17:00 Vstupné 100 Kč Koupit Hudba Pro dospělé Odpo",
+  "refs": [
+   [
+    "https://www.mlp.cz/cz/pobocky/chodov",
+    "Digitální poradna každý poslední pátek v měsíci"
+   ]
+  ]
+ },
+ "https://www.mlp.cz/akce/vsechny-akce?nid_entityreference_filter=528": {
+  "status": 200,
+  "items": 26,
+  "text": "Typ akce Divadlo Festival Film Hry Hudba Kurz Literatura Přednáška Seminář Setkání Tanec Vycházka Výstava Výtvarná dílna Vzdělání Workshop Pobočka Všechny pobočky Barrandov Bohnice Břevnov Brusnice - ",
+  "refs": [
+   [
+    "https://www.mlp.cz/cz/pobocky/dejvice",
+    "Akce na pobočce"
+   ],
+   [
+    "https://www.mlp.cz/cz/pobocky/dejvice",
+    "Všechny akce na pobočce"
+   ],
+   [
+    "https://www.mlp.cz/cz/pobocky/dejvice",
+    "více"
+   ]
+  ]
+ },
+ "https://www.mlp.cz/akce/vsechny-akce?nid_entityreference_filter=532": {
+  "status": 200,
+  "items": 20,
+  "text": "Typ akce Divadlo Festival Film Hry Hudba Kurz Literatura Přednáška Seminář Setkání Tanec Vycházka Výstava Výtvarná dílna Vzdělání Workshop Pobočka Všechny pobočky Barrandov Bohnice Břevnov Brusnice - ",
+  "refs": [
+   [
+    "https://www.mlp.cz/cz/pobocky/dum-cteni-ruska",
+    "Akce na pobočce"
+   ],
+   [
+    "https://www.mlp.cz/cz/pobocky/dum-cteni-ruska",
+    "Všechny akce na pobočce"
+   ],
+   [
+    "https://www.mlp.cz/cz/pobocky/dum-cteni-ruska",
+    "více"
+   ]
+  ]
+ },
+ "https://www.mlp.cz/akce/vsechny-akce?nid_entityreference_filter=533": {
+  "status": 200,
+  "items": 22,
+  "text": "Typ akce Divadlo Festival Film Hry Hudba Kurz Literatura Přednáška Seminář Setkání Tanec Vycházka Výstava Výtvarná dílna Vzdělání Workshop Pobočka Všechny pobočky Barrandov Bohnice Břevnov Brusnice - ",
+  "refs": [
+   [
+    "https://www.mlp.cz/cz/pobocky/hloubetin",
+    "Akce na pobočce"
+   ],
+   [
+    "https://www.mlp.cz/cz/pobocky/hloubetin",
+    "Všechny akce na pobočce"
+   ],
+   [
+    "https://www.mlp.cz/cz/pobocky/hloubetin",
+    "více"
+   ]
+  ]
+ },
+ "https://www.mlp.cz/akce/vsechny-akce?nid_entityreference_filter=534": {
+  "status": 200,
+  "items": 26,
+  "text": "Typ akce Divadlo Festival Film Hry Hudba Kurz Literatura Přednáška Seminář Setkání Tanec Vycházka Výstava Výtvarná dílna Vzdělání Workshop Pobočka Všechny pobočky Barrandov Bohnice Břevnov Brusnice - ",
+  "refs": [
+   [
+    "https://www.mlp.cz/cz/pobocky/hostivar",
+    "Akce na pobočce"
+   ],
+   [
+    "https://www.mlp.cz/cz/pobocky/hostivar",
+    "Všechny akce na pobočce"
+   ],
+   [
+    "https://www.mlp.cz/cz/pobocky/hostivar",
+    "více"
+   ]
+  ]
+ },
+ "https://www.mlp.cz/akce/vsechny-akce?nid_entityreference_filter=535": {
+  "status": 200,
+  "items": 12,
+  "text": "Typ akce Divadlo Festival Film Hry Hudba Kurz Literatura Přednáška Seminář Setkání Tanec Vycházka Výstava Výtvarná dílna Vzdělání Workshop Pobočka Všechny pobočky Barrandov Bohnice Břevnov Brusnice - ",
+  "refs": [
+   [
+    "https://www.mlp.cz/cz/pobocky/hradcany",
+    "Akce na pobočce"
+   ],
+   [
+    "https://www.mlp.cz/cz/pobocky/hradcany",
+    "Všechny akce na pobočce"
+   ],
+   [
+    "https://www.mlp.cz/cz/pobocky/hradcany",
+    "více"
+   ]
+  ]
+ },
+ "https://www.mlp.cz/akce/vsechny-akce?nid_entityreference_filter=538": {
+  "status": 200,
+  "items": 2,
+  "text": "Typ akce Divadlo Festival Film Hry Hudba Kurz Literatura Přednáška Seminář Setkání Tanec Vycházka Výstava Výtvarná dílna Vzdělání Workshop Pobočka Všechny pobočky Barrandov Bohnice Břevnov Brusnice - ",
+  "refs": [
+   [
+    "https://www.mlp.cz/cz/pobocky/kobylisy",
+    "Akce na pobočce"
+   ],
+   [
+    "https://www.mlp.cz/cz/pobocky/kobylisy",
+    "Všechny akce na pobočce"
+   ],
+   [
+    "https://www.mlp.cz/cz/pobocky/kobylisy",
+    "více"
+   ]
+  ]
+ },
+ "https://www.mlp.cz/akce/vsechny-akce?nid_entityreference_filter=540": {
+  "status": 200,
+  "items": 26,
+  "text": "Typ akce Divadlo Festival Film Hry Hudba Kurz Literatura Přednáška Seminář Setkání Tanec Vycházka Výstava Výtvarná dílna Vzdělání Workshop Pobočka Všechny pobočky Barrandov Bohnice Břevnov Brusnice - ",
+  "refs": [
+   [
+    "https://www.mlp.cz/cz/pobocky/korunni",
+    "Akce na pobočce"
+   ],
+   [
+    "https://www.mlp.cz/cz/pobocky/korunni",
+    "Všechny akce na pobočce"
+   ],
+   [
+    "https://www.mlp.cz/cz/pobocky/korunni",
+    "více"
+   ]
+  ]
+ },
+ "https://www.mlp.cz/akce/vsechny-akce?nid_entityreference_filter=543": {
+  "status": 200,
+  "items": 26,
+  "text": "Typ akce Divadlo Festival Film Hry Hudba Kurz Literatura Přednáška Seminář Setkání Tanec Vycházka Výstava Výtvarná dílna Vzdělání Workshop Pobočka Všechny pobočky Barrandov Bohnice Břevnov Brusnice - ",
+  "refs": [
+   [
+    "https://www.mlp.cz/cz/pobocky/luziny",
+    "Akce na pobočce"
+   ],
+   [
+    "https://www.mlp.cz/cz/pobocky/luziny",
+    "Všechny akce na pobočce"
+   ],
+   [
+    "https://www.mlp.cz/cz/pobocky/luziny",
+    "více"
+   ]
+  ]
+ },
+ "https://www.mlp.cz/akce/vsechny-akce?nid_entityreference_filter=544": {
+  "status": 200,
+  "items": 10,
+  "text": "Typ akce Divadlo Festival Film Hry Hudba Kurz Literatura Přednáška Seminář Setkání Tanec Vycházka Výstava Výtvarná dílna Vzdělání Workshop Pobočka Všechny pobočky Barrandov Bohnice Břevnov Brusnice - ",
+  "refs": [
+   [
+    "https://www.mlp.cz/cz/pobocky/ladvi",
+    "Akce na pobočce"
+   ],
+   [
+    "https://www.mlp.cz/cz/pobocky/ladvi",
+    "Všechny akce na pobočce"
+   ],
+   [
+    "https://www.mlp.cz/cz/pobocky/ladvi",
+    "více"
+   ]
+  ]
+ },
+ "https://www.mlp.cz/akce/vsechny-akce?nid_entityreference_filter=545": {
+  "status": 200,
+  "items": 26,
+  "text": "Typ akce Divadlo Festival Film Hry Hudba Kurz Literatura Přednáška Seminář Setkání Tanec Vycházka Výstava Výtvarná dílna Vzdělání Workshop Pobočka Všechny pobočky Barrandov Bohnice Břevnov Brusnice - ",
+  "refs": [
+   [
+    "https://www.mlp.cz/cz/pobocky/malesice",
+    "Akce na pobočce"
+   ],
+   [
+    "https://www.mlp.cz/cz/pobocky/malesice",
+    "Všechny akce na pobočce"
+   ],
+   [
+    "https://www.mlp.cz/cz/pobocky/malesice",
+    "více"
+   ]
+  ]
+ },
+ "https://www.mlp.cz/akce/vsechny-akce?nid_entityreference_filter=548": {
+  "status": 200,
+  "items": 26,
+  "text": "Typ akce Divadlo Festival Film Hry Hudba Kurz Literatura Přednáška Seminář Setkání Tanec Vycházka Výstava Výtvarná dílna Vzdělání Workshop Pobočka Všechny pobočky Barrandov Bohnice Břevnov Brusnice - ",
+  "refs": [
+   [
+    "https://www.mlp.cz/cz/pobocky/novodvorska",
+    "Akce na pobočce"
+   ],
+   [
+    "https://www.mlp.cz/cz/pobocky/novodvorska",
+    "Všechny akce na pobočce"
+   ],
+   [
+    "https://www.mlp.cz/cz/pobocky/novodvorska",
+    "více"
+   ]
+  ]
+ },
+ "https://www.mlp.cz/akce/vsechny-akce?nid_entityreference_filter=550": {
+  "status": 200,
+  "items": 26,
+  "text": "Typ akce Divadlo Festival Film Hry Hudba Kurz Literatura Přednáška Seminář Setkání Tanec Vycházka Výstava Výtvarná dílna Vzdělání Workshop Pobočka Všechny pobočky Barrandov Bohnice Břevnov Brusnice - ",
+  "refs": [
+   [
+    "https://www.mlp.cz/cz/pobocky/opatov",
+    "Akce na pobočce"
+   ],
+   [
+    "https://www.mlp.cz/cz/pobocky/opatov",
+    "Všechny akce na pobočce"
+   ],
+   [
+    "https://www.mlp.cz/cz/pobocky/opatov",
+    "více"
+   ]
+  ]
+ },
+ "https://www.mlp.cz/akce/vsechny-akce?nid_entityreference_filter=551": {
+  "status": 200,
+  "items": 2,
+  "text": "Typ akce Divadlo Festival Film Hry Hudba Kurz Literatura Přednáška Seminář Setkání Tanec Vycházka Výstava Výtvarná dílna Vzdělání Workshop Pobočka Všechny pobočky Barrandov Bohnice Břevnov Brusnice - ",
+  "refs": [
+   [
+    "https://www.mlp.cz/cz/pobocky/ostrovskeho",
+    "Akce na pobočce"
+   ],
+   [
+    "https://www.mlp.cz/cz/pobocky/ostrovskeho",
+    "Všechny akce na pobočce"
+   ],
+   [
+    "https://www.mlp.cz/cz/pobocky/ostrovskeho",
+    "více"
+   ]
+  ]
+ },
+ "https://www.mlp.cz/akce?field_event_type_target_id=11&nid_entityreference_filter=554&field_event_instance_time_range_value=": {
+  "status": 200,
+  "items": 24,
+  "text": "Filmy více Film Pro dospělé Kluci to vidí jinak než holky Petřiny 24. 11. 2026 (út), 18:30–20:30 Vstupné 120 Kč Koupit Film Pro dospělé Proč bychom se nezabili Petřiny 26. 11. 2026 (čt), 16:00–17:30 V",
+  "refs": [
+   [
+    "https://www.mlp.cz/cz/pobocky/petriny",
+    "Aktuální program Kina Petřiny"
+   ]
+  ]
+ },
+ "https://www.mlp.cz/akce/vsechny-akce?nid_entityreference_filter=556": {
+  "status": 200,
+  "items": 20,
+  "text": "Typ akce Divadlo Festival Film Hry Hudba Kurz Literatura Přednáška Seminář Setkání Tanec Vycházka Výstava Výtvarná dílna Vzdělání Workshop Pobočka Všechny pobočky Barrandov Bohnice Břevnov Brusnice - ",
+  "refs": [
+   [
+    "https://www.mlp.cz/cz/pobocky/prosek",
+    "Akce na pobočce"
+   ],
+   [
+    "https://www.mlp.cz/cz/pobocky/prosek",
+    "Všechny akce na pobočce"
+   ],
+   [
+    "https://www.mlp.cz/cz/pobocky/prosek",
+    "více"
+   ]
+  ]
+ },
+ "https://www.mlp.cz/akce/vsechny-akce?nid_entityreference_filter=557": {
+  "status": 200,
+  "items": 6,
+  "text": "Typ akce Divadlo Festival Film Hry Hudba Kurz Literatura Přednáška Seminář Setkání Tanec Vycházka Výstava Výtvarná dílna Vzdělání Workshop Pobočka Všechny pobočky Barrandov Bohnice Břevnov Brusnice - ",
+  "refs": [
+   [
+    "https://www.mlp.cz/cz/pobocky/rajska-zahrada",
+    "Akce na pobočce"
+   ],
+   [
+    "https://www.mlp.cz/cz/pobocky/rajska-zahrada",
+    "Všechny akce na pobočce"
+   ],
+   [
+    "https://www.mlp.cz/cz/pobocky/rajska-zahrada",
+    "více"
+   ]
+  ]
+ },
+ "https://www.mlp.cz/akce/vsechny-akce?nid_entityreference_filter=558": {
+  "status": 200,
+  "items": 26,
+  "text": "Typ akce Divadlo Festival Film Hry Hudba Kurz Literatura Přednáška Seminář Setkání Tanec Vycházka Výstava Výtvarná dílna Vzdělání Workshop Pobočka Všechny pobočky Barrandov Bohnice Břevnov Brusnice - ",
+  "refs": [
+   [
+    "https://www.mlp.cz/cz/pobocky/sedmicka",
+    "Akce na pobočce"
+   ],
+   [
+    "https://www.mlp.cz/cz/pobocky/sedmicka",
+    "Všechny akce na pobočce"
+   ],
+   [
+    "https://www.mlp.cz/cz/pobocky/sedmicka",
+    "více"
+   ]
+  ]
+ },
+ "https://www.mlp.cz/akce/vsechny-akce?nid_entityreference_filter=559": {
+  "status": 200,
+  "items": 6,
+  "text": "Typ akce Divadlo Festival Film Hry Hudba Kurz Literatura Přednáška Seminář Setkání Tanec Vycházka Výstava Výtvarná dílna Vzdělání Workshop Pobočka Všechny pobočky Barrandov Bohnice Břevnov Brusnice - ",
+  "refs": [
+   [
+    "https://www.mlp.cz/cz/pobocky/skalka",
+    "Akce na pobočce"
+   ],
+   [
+    "https://www.mlp.cz/cz/pobocky/skalka",
+    "Všechny akce na pobočce"
+   ],
+   [
+    "https://www.mlp.cz/cz/pobocky/skalka",
+    "více"
+   ]
+  ]
+ },
+ "https://www.mlp.cz/akce/vsechny-akce?nid_entityreference_filter=560": {
+  "status": 200,
+  "items": 26,
+  "text": "Typ akce Divadlo Festival Film Hry Hudba Kurz Literatura Přednáška Seminář Setkání Tanec Vycházka Výstava Výtvarná dílna Vzdělání Workshop Pobočka Všechny pobočky Barrandov Bohnice Břevnov Brusnice - ",
+  "refs": [
+   [
+    "https://www.mlp.cz/cz/pobocky/smichov",
+    "Akce na pobočce"
+   ],
+   [
+    "https://www.mlp.cz/cz/pobocky/smichov",
+    "Všechny akce na pobočce"
+   ],
+   [
+    "https://www.mlp.cz/cz/pobocky/smichov",
+    "více"
+   ]
+  ]
+ },
+ "https://www.mlp.cz/akce/vsechny-akce?nid_entityreference_filter=562": {
+  "status": 200,
+  "items": 26,
+  "text": "Typ akce Divadlo Festival Film Hry Hudba Kurz Literatura Přednáška Seminář Setkání Tanec Vycházka Výstava Výtvarná dílna Vzdělání Workshop Pobočka Všechny pobočky Barrandov Bohnice Břevnov Brusnice - ",
+  "refs": [
+   [
+    "https://www.mlp.cz/cz/pobocky/stodulky",
+    "Akce na pobočce"
+   ],
+   [
+    "https://www.mlp.cz/cz/pobocky/stodulky",
+    "Všechny akce na pobočce"
+   ],
+   [
+    "https://www.mlp.cz/cz/pobocky/stodulky",
+    "více"
+   ]
+  ]
+ },
+ "https://www.mlp.cz/akce/vsechny-akce?nid_entityreference_filter=564": {
+  "status": 200,
+  "items": 26,
+  "text": "Typ akce Divadlo Festival Film Hry Hudba Kurz Literatura Přednáška Seminář Setkání Tanec Vycházka Výstava Výtvarná dílna Vzdělání Workshop Pobočka Všechny pobočky Barrandov Bohnice Břevnov Brusnice - ",
+  "refs": [
+   [
+    "https://www.mlp.cz/cz/pobocky/velky-mlyn",
+    "Akce na pobočce"
+   ],
+   [
+    "https://www.mlp.cz/cz/pobocky/velky-mlyn",
+    "Všechny akce na pobočce"
+   ],
+   [
+    "https://www.mlp.cz/cz/pobocky/velky-mlyn",
+    "více"
+   ]
+  ]
+ },
+ "https://www.mlp.cz/akce/vsechny-akce?nid_entityreference_filter=565": {
+  "status": 200,
+  "items": 26,
+  "text": "Typ akce Divadlo Festival Film Hry Hudba Kurz Literatura Přednáška Seminář Setkání Tanec Vycházka Výstava Výtvarná dílna Vzdělání Workshop Pobočka Všechny pobočky Barrandov Bohnice Břevnov Brusnice - ",
+  "refs": [
+   [
+    "https://www.mlp.cz/cz/pobocky/vikova",
+    "Akce na pobočce"
+   ],
+   [
+    "https://www.mlp.cz/cz/pobocky/vikova",
+    "Všechny akce na pobočce"
+   ],
+   [
+    "https://www.mlp.cz/cz/pobocky/vikova",
+    "více"
+   ]
+  ]
+ },
+ "https://www.mlp.cz/akce/vsechny-akce?nid_entityreference_filter=566": {
+  "status": 200,
+  "items": 24,
+  "text": "Typ akce Divadlo Festival Film Hry Hudba Kurz Literatura Přednáška Seminář Setkání Tanec Vycházka Výstava Výtvarná dílna Vzdělání Workshop Pobočka Všechny pobočky Barrandov Bohnice Břevnov Brusnice - ",
+  "refs": [
+   [
+    "https://www.mlp.cz/cz/pobocky/vozovna",
+    "Akce na pobočce"
+   ],
+   [
+    "https://www.mlp.cz/cz/pobocky/vozovna",
+    "Všechny akce na pobočce"
+   ],
+   [
+    "https://www.mlp.cz/cz/pobocky/vozovna",
+    "více"
+   ]
+  ]
+ },
+ "https://www.mlp.cz/akce/vsechny-akce?nid_entityreference_filter=568": {
+  "status": 200,
+  "items": 26,
+  "text": "Typ akce Divadlo Festival Film Hry Hudba Kurz Literatura Přednáška Seminář Setkání Tanec Vycházka Výstava Výtvarná dílna Vzdělání Workshop Pobočka Všechny pobočky Barrandov Bohnice Břevnov Brusnice - ",
+  "refs": [
+   [
+    "https://www.mlp.cz/cz/pobocky/vysocany",
+    "Akce na pobočce"
+   ],
+   [
+    "https://www.mlp.cz/cz/pobocky/vysocany",
+    "Všechny akce na pobočce"
+   ],
+   [
+    "https://www.mlp.cz/cz/pobocky/vysocany",
+    "více"
+   ]
+  ]
+ },
+ "https://www.mlp.cz/akce/vsechny-akce?nid_entityreference_filter=569": {
+  "status": 200,
+  "items": 18,
+  "text": "Typ akce Divadlo Festival Film Hry Hudba Kurz Literatura Přednáška Seminář Setkání Tanec Vycházka Výstava Výtvarná dílna Vzdělání Workshop Pobočka Všechny pobočky Barrandov Bohnice Břevnov Brusnice - ",
+  "refs": [
+   [
+    "https://www.mlp.cz/cz/pobocky/zahradni-mesto",
+    "Akce na pobočce"
+   ],
+   [
+    "https://www.mlp.cz/cz/pobocky/zahradni-mesto",
+    "Všechny akce na pobočce"
+   ],
+   [
+    "https://www.mlp.cz/cz/pobocky/zahradni-mesto",
+    "více"
+   ]
+  ]
+ },
+ "https://www.mlp.cz/akce/vsechny-akce?nid_entityreference_filter=570": {
+  "status": 200,
+  "items": 8,
+  "text": "Typ akce Divadlo Festival Film Hry Hudba Kurz Literatura Přednáška Seminář Setkání Tanec Vycházka Výstava Výtvarná dílna Vzdělání Workshop Pobočka Všechny pobočky Barrandov Bohnice Břevnov Brusnice - ",
+  "refs": [
+   [
+    "https://www.mlp.cz/cz/pobocky/zahrebska",
+    "Akce na pobočce"
+   ],
+   [
+    "https://www.mlp.cz/cz/pobocky/zahrebska",
+    "Všechny akce na pobočce"
+   ],
+   [
+    "https://www.mlp.cz/cz/pobocky/zahrebska",
+    "více"
+   ]
+  ]
+ },
+ "https://www.mlp.cz/akce/vsechny-akce?nid_entityreference_filter=571": {
+  "status": 200,
+  "items": 26,
+  "text": "Typ akce Divadlo Festival Film Hry Hudba Kurz Literatura Přednáška Seminář Setkání Tanec Vycházka Výstava Výtvarná dílna Vzdělání Workshop Pobočka Všechny pobočky Barrandov Bohnice Břevnov Brusnice - ",
+  "refs": [
+   [
+    "https://www.mlp.cz/cz/pobocky/ustredni-knihovna",
+    "Akce na pobočce"
+   ],
+   [
+    "https://www.mlp.cz/cz/pobocky/ustredni-knihovna",
+    "Všechny akce na pobočce"
+   ],
+   [
+    "https://www.mlp.cz/cz/pobocky/ustredni-knihovna",
+    "více"
+   ]
+  ]
+ },
+ "https://www.mlp.cz/akce?field_event_type_target_id=11&nid_entityreference_filter=571&field_event_instance_time_range_value=": {
+  "status": 200,
+  "items": 24,
+  "text": "Filmy více Film Pro dospělé Chlapectví Ústřední knihovna 23. 11. 2026 (po), 19:00–22:30 Vstupné 120 Kč Koupit Film Pro dospělé V srdci divočiny Ústřední knihovna 24. 11. 2026 (út), 16:00–18:00 Vstupné",
+  "refs": [
+   [
+    "https://www.mlp.cz/cz/o-knihovne/sluzby/filmy",
+    "AKTUÁLNÍ PROGRAM KINA"
+   ],
+   [
+    "https://www.mlp.cz/cz/o-knihovne/sluzby/specializovana-oddeleni/kulturni-vzdelavaci-centrum/kino-mkp",
+    "AKTUÁLNÍ PROGRAM KINA"
+   ],
+   [
+    "https://www.mlp.cz/cz/pobocky/ustredni-knihovna",
+    "Aktuální program Kina MKP"
+   ],
+   [
+    "https://www.mlp.cz/cz/pobocky/ustredni-knihovna-pokladna-salu",
+    "Aktuální program Kina MKP"
+   ]
+  ]
+ },
+ "https://www.mlp.cz/akce/vsechny-akce?nid_entityreference_filter=572": {
+  "status": 200,
+  "items": 14,
+  "text": "Typ akce Divadlo Festival Film Hry Hudba Kurz Literatura Přednáška Seminář Setkání Tanec Vycházka Výstava Výtvarná dílna Vzdělání Workshop Pobočka Všechny pobočky Barrandov Bohnice Břevnov Brusnice - ",
+  "refs": [
+   [
+    "https://www.mlp.cz/cz/pobocky/ustredni-knihovna-dilna",
+    "Akce na pobočce"
+   ],
+   [
+    "https://www.mlp.cz/cz/pobocky/ustredni-knihovna-dilna",
+    "Všechny akce na pobočce"
+   ],
+   [
+    "https://www.mlp.cz/cz/pobocky/ustredni-knihovna-dilna",
+    "více"
+   ]
+  ]
+ },
+ "https://www.mlp.cz/akce/vsechny-akce?nid_entityreference_filter=573": {
+  "status": 200,
+  "items": 26,
+  "text": "Typ akce Divadlo Festival Film Hry Hudba Kurz Literatura Přednáška Seminář Setkání Tanec Vycházka Výstava Výtvarná dílna Vzdělání Workshop Pobočka Všechny pobočky Barrandov Bohnice Břevnov Brusnice - ",
+  "refs": [
+   [
+    "https://www.mlp.cz/cz/pobocky/ustredni-knihovna-kreativni-centrum",
+    "Akce na pobočce"
+   ],
+   [
+    "https://www.mlp.cz/cz/pobocky/ustredni-knihovna-kreativni-centrum",
+    "Všechny akce na pobočce"
+   ],
+   [
+    "https://www.mlp.cz/cz/pobocky/ustredni-knihovna-kreativni-centrum",
+    "více"
+   ]
+  ]
+ },
+ "https://www.mlp.cz/akce/vsechny-akce?nid_entityreference_filter=575": {
+  "status": 200,
+  "items": 18,
+  "text": "Typ akce Divadlo Festival Film Hry Hudba Kurz Literatura Přednáška Seminář Setkání Tanec Vycházka Výstava Výtvarná dílna Vzdělání Workshop Pobočka Všechny pobočky Barrandov Bohnice Břevnov Brusnice - ",
+  "refs": [
+   [
+    "https://www.mlp.cz/cz/pobocky/skolska",
+    "Akce na pobočce"
+   ],
+   [
+    "https://www.mlp.cz/cz/pobocky/skolska",
+    "Všechny akce na pobočce"
+   ],
+   [
+    "https://www.mlp.cz/cz/pobocky/skolska",
+    "více"
+   ]
+  ]
+ },
+ "https://www.mlp.cz/akce/vsechny-akce?nid_entityreference_filter=3598": {
+  "status": 200,
+  "items": 26,
+  "text": "Typ akce Divadlo Festival Film Hry Hudba Kurz Literatura Přednáška Seminář Setkání Tanec Vycházka Výstava Výtvarná dílna Vzdělání Workshop Pobočka Všechny pobočky Barrandov Bohnice Břevnov Brusnice - ",
+  "refs": [
+   [
+    "https://www.mlp.cz/cz/pobocky/cerny-most",
+    "Akce na pobočce"
+   ],
+   [
+    "https://www.mlp.cz/cz/pobocky/cerny-most",
+    "Všechny akce na pobočce"
+   ],
+   [
+    "https://www.mlp.cz/cz/pobocky/cerny-most",
+    "více"
+   ]
+  ]
+ },
+ "https://www.mlp.cz/akce/vsechny-akce?nid_entityreference_filter=4875": {
+  "status": 200,
+  "items": 26,
+  "text": "Typ akce Divadlo Festival Film Hry Hudba Kurz Literatura Přednáška Seminář Setkání Tanec Vycházka Výstava Výtvarná dílna Vzdělání Workshop Pobočka Všechny pobočky Barrandov Bohnice Břevnov Brusnice - ",
+  "refs": [
+   [
+    "https://www.mlp.cz/cz/pobocky/ustredni-knihovna-divadlo-rise-loutek",
+    "Akce na pobočce"
+   ],
+   [
+    "https://www.mlp.cz/cz/pobocky/ustredni-knihovna-divadlo-rise-loutek",
+    "Všechny akce na pobočce"
+   ],
+   [
+    "https://www.mlp.cz/cz/pobocky/ustredni-knihovna-divadlo-rise-loutek",
+    "více"
+   ]
+  ]
+ },
+ "https://www.mlp.cz/cz/akce?field_event_type_target_id=21&nid_entityreference_filter=549&field_event_instance_time_range_value=": {
+  "status": 200,
+  "items": 0,
+  "text": "",
+  "refs": [
+   [
+    "https://www.mlp.cz/cz/o-knihovne/sluzby/specializovana-oddeleni/artoteka",
+    "Aktuální výstava"
+   ]
+  ]
+ },
+ "https://www.mlp.cz/cz/akce?field_event_type_target_id=All&nid_entityreference_filter=571&field_event_instance_time_range_value=&field_event_audience_value=1": {
+  "status": 200,
+  "items": 22,
+  "text": "Filmy více Film Pro rodiče a děti, Pro dospělé Vojta Sucharda - sochař a loutkář Ústřední knihovna 11. 12. 2026 (pá), 19:00–20:30 Vstupné 70 Kč Koupit Film Pro rodiče a děti, Pro seniory, Pro dospělé ",
+  "refs": [
+   [
+    "https://www.mlp.cz/cz/o-knihovne/sluzby/specializovana-oddeleni/oddeleni-pro-deti-mladez",
+    "Akce v dětském oddělení"
+   ]
+  ]
+ }
+}

@@ -302,10 +302,24 @@ for it in items.values():
     else:
         it["suggestion_ok"] = None
 
-# group identical broken links (same href + category) across pages
+# known replacements for external links
+for it in items.values():
+    if "youtube.com/@mestskaknihovnavpraze" in it["href"]:
+        it["suggestion"] = "https://www.youtube.com/@KnihovnaPraha"
+        it["fix"] = "Kanál s touto adresou neexistuje. Knihovna jinde na webu odkazuje na kanál @KnihovnaPraha – použijte tuto adresu."
+
+# broken images from the old site: one row per page instead of one per image
+for it in items.values():
+    h = it["href"]
+    if it["cat"] == "image" or (it["cat"] == "old_domain" and "noRW_photodisplay" in h):
+        it["cat"] = "image"
+        it["fix"] = ("Obrázky ze starého webu knihovny (adresy /noRW_photodisplay/ nebo old.mlp.cz) se už nezobrazují. "
+                     "Nahrajte obrázky znovu do Médií a vložte je do článku, nebo prázdné obrázky z článku odstraňte.")
+        it["problem"] = "Obrázek se nezobrazí (chyba 404 / starý web)"
+
 grouped = {}
 for it in items.values():
-    k = (it["cat"], it["href"].strip())
+    k = (it["cat"], it["href"].strip()) if it["cat"] != "image" else ("image", it["page"])
     g = grouped.get(k)
     if g is None:
         g = dict(it)
@@ -315,6 +329,12 @@ for it in items.values():
     g["pages"].append({"url": it["page"], "title": it["title"], "region": it["region"]})
     if it["text"] and it["text"] not in g["texts"]:
         g["texts"].append(it["text"])
+for k, g in grouped.items():
+    if k[0] == "image":
+        imgs = [it["href"] for it in items.values() if it["cat"] == "image" and it["page"] == k[1]]
+        g["href"] = f"Obrázky ze starého webu ({len(imgs)} ks), např. {imgs[0]}" if len(imgs) > 1 else imgs[0]
+        g["images"] = imgs
+        g["pages"] = g["pages"][:1]
 rows = []
 for g in grouped.values():
     g["n_pages"] = len(g["pages"])

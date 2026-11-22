@@ -1,0 +1,120 @@
+https://www.knihovny.cz	418	0	
+https://www.knihovny.cz/?lng=en	418	0	
+https://www.knihovny.cz/	418	0	
+http://www.2fresh.cz	000	35	curl: (35) Recv failure: Connection reset by peer 
+https://search.alexanderstreet.com/search?searchstring=Elvis+Presley	403	0	
+http://www.seminkovny.com/	000	60	curl: (60) SSL: no alternative certificate subject name matches target host name 'www.seminkovny.com' More details here: https://curl.se/docs/sslcerts
+https://www.mujrozhlas.cz/lide/jiri-slabihoudek	403	0	
+https://pixabay.com/cs/photos/koncert-sc%C3%A9na-dj-hudba-rap-633110/	403	0	
+https://pixabay.com/cs/photos/housle-hudebn%C3%ADci-orchestr-n%C3%A1stroje-1838390/	403	0	
+https://pixabay.com/cs/photos/klav%C3%ADr-klasick%C3%A1-hudba-pi%C3%A1nista-1846719/	403	0	
+https://pixabay.com/cs/photos/chopin-stupn%C4%9B-hudba-notenblatt-62928/	403	0	
+https://pixabay.com/cs/photos/hudba-na-notov%C3%A9m-pap%C3%AD%C5%99e-klav%C3%ADr-hudba-8463988/	403	0	
+https://pixabay.com/cs/photos/noty-hudba-klav%C3%ADr-kytara-melodie-4947840/	403	0	
+https://pixabay.com/cs/photos/%D1%80%D0%B0%D0%BD%D0%B5%D1%82%D0%BA%D0%B0-%C4%8Derven-jablo%C5%88-kvete-makro-4244471/	403	0	
+https://teatrologie.cz/	200	0	
+http://rvs.paleontologie.cz/	301	6	curl: (6) Could not resolve host: www.rvs.paleontologie.cz 
+https://ceskegalerie.cz/cs/	429	0	
+https://www.e-knihovna.cz	000	35	curl: (35) Recv failure: Connection reset by peer 
+https://www.e-knihovna.cz/	000	35	curl: (35) Recv failure: Connection reset by peer 
+http://www.e-knihovna.cz/	000	35	curl: (35) Recv failure: Connection reset by peer 
+http://www.e-knihovna.cz	000	35	curl: (35) Recv failure: Connection reset by peer 
+https://demo.mlp.cz/pobocky/barrandov/	000	56	curl: (56) CONNECT tunnel failed, response 502 
+https://demo.mlp.cz/pobocky/luziny/	000	56	curl: (56) CONNECT tunnel failed, response 502 
+https://demo.mlp.cz/pobocky/ustredni-knihovna/	000	56	curl: (56) CONNECT tunnel failed, response 502 
+https://demo.mlp.cz/pobocky/velky-mlyn/	000	56	curl: (56) CONNECT tunnel failed, response 502 
+https://demo.mlp.cz/pobocky/kiosek-ccm/	000	56	curl: (56) CONNECT tunnel failed, response 502 
+https://demo.mlp.cz/pobocky/kiosek-dbk/	000	56	curl: (56) CONNECT tunnel failed, response 502 
+https://demo.mlp.cz/pobocky/kiosek-chodov/	000	56	curl: (56) CONNECT tunnel failed, response 502 
+https://demo.mlp.cz/katalog/davka/NFW_POHYB_HANDICAP?p=	000	56	curl: (56) CONNECT tunnel failed, response 502 
+https://prahatv.eu/zpravy/praha/praha-11/17961/mestska-knihovna-opatov-oslavila-40-narozeniny	000	60	curl: (60) SSL certificate problem: certificate has expired More details here: https://curl.se/docs/sslcerts.html  curl failed to verify the legitimac
+https://old.mlp.cz/noRW_photodisplay/f7/17514_f7995706ecd8a5a2cec9a030703878d6.jpg	000	35	curl: (35) Recv failure: Connection reset by peer 
+https://old.mlp.cz/pobocky/luziny/	000	35	curl: (35) Recv failure: Connection reset by peer 
+https://old.mlp.cz/pobocky/stodulky/	000	35	curl: (35) Recv failure: Connection reset by peer 
+https://old.mlp.cz/noRW_photodisplay/02/38320_0269d866e8e122e1e79e75294149060e.jpg	000	35	curl: (35) Recv failure: Connection reset by peer 
+https://old.mlp.cz/noRW_photodisplay/68/38328_68f73eac0b4218fa62d100c92b09734d.jpg	000	35	curl: (35) Recv failure: Connection reset by peer 
+https://old.mlp.cz/noRW_photodisplay/d2/38330_d2165294b53df3b2e8359d08c3ae484e.jpg	000	35	curl: (35) Recv failure: Connection reset by peer 
+https://old.mlp.cz/noRW_photodisplay/42/38335_421a248801ccc9491d31de7a2c80ddc7.jpg	000	35	curl: (35) Recv failure: Connection reset by peer 
+https://old.mlp.cz/noRW_photodisplay/f2/38429_f24d5e23a8b3b9dcce8deb327569567f.jpg	000	35	curl: (35) Recv failure: Connection reset by peer 
+https://old.mlp.cz/noRW_photodisplay/86/38430_860e4f74608382339681d4671a5b2ae8.png	000	35	curl: (35) Recv failure: Connection reset by peer 
+https://old.mlp.cz/noRW_photodisplay/35/38431_358aee991ea60749efa902d51cc2e845.jpg	000	35	curl: (35) Recv failure: Connection reset by peer 
+https://bmc.skipcr.cz/	200	0	
+https://martinastara.cz/	000	56	curl: (56) CONNECT tunnel failed, response 502 
+https://www.behance.net/Martina_Stara	403	0	
+https://www.ddmp6.cz/tabory/?id=793	200	0	
+http://www.zadvermi.cz	200	0	
+https://mravencichuva.cz/	200	0	
+https://mravencichuva.cz/procteneleto/	200	0	
+https://www.procteneleto.cz	302	6	curl: (6) Could not resolve host: mravencichuva.cz 
+https://zazitmestojinak.cz/	000	60	curl: (60) SSL certificate problem: certificate has expired More details here: https://curl.se/docs/sslcerts.html  curl failed to verify the legitimac
+http://e-knihovny.cz	000	56	curl: (56) CONNECT tunnel failed, response 502 
+http://l.mlp.cz/pressreader	000	35	curl: (35) Recv failure: Connection reset by peer 
+https://zabranou.cz/	403	0	
+https://www.ppas.cz/	000	35	curl: (35) Recv failure: Connection reset by peer 
+http://www.ppas.cz/	000	35	curl: (35) Recv failure: Connection reset by peer 
+http://goo.gl/07zp6	401	0	
+https://www.h55.cz/	000	60	curl: (60) SSL certificate problem: certificate has expired More details here: https://curl.se/docs/sslcerts.html  curl failed to verify the legitimac
+http://www.bdmalesice.cz/	000	60	curl: (60) SSL certificate problem: self-signed certificate More details here: https://curl.se/docs/sslcerts.html  curl failed to verify the legitimac
+http://www.britishcouncil.org/cz	000	92	curl: (92) HTTP/2 stream 1 was not closed cleanly: INTERNAL_ERROR (err 2) 
+http://www.knihovny.cz/	418	0	
+http://www.knihovny.cz	418	0	
+http://wwwbeta.mlp.cz/cz/	000	56	curl: (56) CONNECT tunnel failed, response 502 
+http://www.knihobudka.cz/mapa/	200	0	
+http://e-knihovna.cz/	000	35	curl: (35) Recv failure: Connection reset by peer 
+http://www.imdb.cz	000	56	curl: (56) CONNECT tunnel failed, response 502 
+http://web.nfa.cz/CeskyHranyFilm/cz/obsah/index.html	000	56	curl: (56) CONNECT tunnel failed, response 502 
+http://www.bafta.org/	403	0	
+http://www.kinobox.cz/ceskylev/	403	0	
+http://db.divadelni-ustav.cz/default.aspx	000	60	curl: (60) SSL: no alternative certificate subject name matches target host name 'db.divadelni-ustav.cz' More details here: https://curl.se/docs/sslce
+http://www.loc.gov/performingarts/	403	0	
+http://www.loc.gov/jukebox/	403	0	
+https://shibboleth2sp.sams.oup.com/Shibboleth.sso/Login?entityID=https://gryf.mlp.cz/idp/shibboleth&target=https%3A%2F%2Fshibboleth2sp.sams.oup.com/shib%3Fdest=http://www.oxfordmusiconline.com/SHIBBOLETH?dest=%2F	525	0	
+http://www.jmw.cz/	000	60	curl: (60) SSL certificate problem: certificate has expired More details here: https://curl.se/docs/sslcerts.html  curl failed to verify the legitimac
+http://fullmoonzine.cz/	403	0	
+http://www.rozhlas.cz/d-dur/portal/	301	6	curl: (6) Could not resolve host: d-dur.rozhlas.cz 
+http://mus.jib.cz/	000	56	curl: (56) CONNECT tunnel failed, response 502 
+http://katif.nkp.cz/KatalogyHudba.aspx?katkey=061KHI	000	35	curl: (35) OpenSSL/3.0.13: error:0A000458:SSL routines::tlsv1 unrecognized name 
+http://classicfm.lidovky.cz/	000	35	curl: (35) Recv failure: Connection reset by peer 
+http://koncertyvpraze.cz/	000	56	curl: (56) CONNECT tunnel failed, response 502 
+http://www.obecni-dum.cz/	000	60	curl: (60) SSL: no alternative certificate subject name matches target host name 'www.obecni-dum.cz' More details here: https://curl.se/docs/sslcerts.
+http://www.pkf.cz/	000	60	curl: (60) SSL certificate problem: certificate has expired More details here: https://curl.se/docs/sslcerts.html  curl failed to verify the legitimac
+http://www.cenyandel.cz/	301	6	curl: (6) Could not resolve host: www.andelceny.cz 
+http://www.gramophone.co.uk/	403	0	
+http://hudebnirozhledy.scena.cz/www/index.php	000	35	curl: (35) Recv failure: Connection reset by peer 
+https://www.europeana.eu/portal/en	403	0	
+https://www.wdl.org/en/	403	0	
+http://www.ct24.cz/vysilani/2009/03/21/209411058110012-20:05-fokus-ct24/	000	35	curl: (35) Recv failure: Connection reset by peer 
+http://www.asociacerodicu.estranky.cz/	000	60	curl: (60) SSL: no alternative certificate subject name matches target host name 'www.asociacerodicu.estranky.cz' More details here: https://curl.se/d
+http://szp.diakoniecce.cz/	000	56	curl: (56) CONNECT tunnel failed, response 502 
+http://divadloverva.cz/	000	56	curl: (56) CONNECT tunnel failed, response 502 
+http://www.amkn-cz.estranky.cz/	000	60	curl: (60) SSL: no alternative certificate subject name matches target host name 'www.amkn-cz.estranky.cz' More details here: https://curl.se/docs/ssl
+http://www.ticho.cz/osoba.php?xtem=&key=8	500	0	
+http://www.frpsp.cz/cs-CZ/uvod.html	000	60	curl: (60) SSL: no alternative certificate subject name matches target host name 'www.frpsp.cz' More details here: https://curl.se/docs/sslcerts.html 
+http://www.jablickodetem.cz/	000	56	curl: (56) CONNECT tunnel failed, response 502 
+http://www.neslysici.cz	000	35	curl: (35) Recv failure: Connection reset by peer 
+http://www.ipsknpraha.estranky.cz/	000	60	curl: (60) SSL: no alternative certificate subject name matches target host name 'www.ipsknpraha.estranky.cz' More details here: https://curl.se/docs/
+http://www.suki.cz/	200	0	
+http://sk.olympia.sweb.cz/	000	56	curl: (56) CONNECT tunnel failed, response 502 
+http://www.tamtam-praha.cz/index.php	000	56	curl: (56) CONNECT tunnel failed, response 502 
+http://www.kr-olomoucky.cz	000	35	curl: (35) Recv failure: Connection reset by peer 
+http://www.osboruvka.cz/	000	56	curl: (56) CONNECT tunnel failed, response 502 
+http://www.caths.cz/	200	0	
+http://www.fragilnix.cz/	000	56	curl: (56) CONNECT tunnel failed, response 502 
+http://www.antee.cz/klubkolecko/index.php?nid=8233&lid=CS&oid=1551245	000	56	curl: (56) CONNECT tunnel failed, response 502 
+http://www.praha.apla.cz/	000	60	curl: (60) SSL: no alternative certificate subject name matches target host name 'www.praha.apla.cz' More details here: https://curl.se/docs/sslcerts.
+http://www.autistik.cz/	000	56	curl: (56) CONNECT tunnel failed, response 502 
+http://www.uzps.cz	000	56	curl: (56) CONNECT tunnel failed, response 502 
+http://www.domovdana.cz/	000	56	curl: (56) CONNECT tunnel failed, response 502 
+http://www.mameotevreno.cz/html/	000	35	curl: (35) Recv failure: Connection reset by peer 
+http://www.parity.cz/	000	56	curl: (56) CONNECT tunnel failed, response 502 
+http://www.pohoda-help.cz/	200	0	
+http://www.simp.cz/	000	56	curl: (56) CONNECT tunnel failed, response 502 
+http://www.dicre.ic.cz/	000	60	curl: (60) SSL: no alternative certificate subject name matches target host name 'www.dicre.ic.cz' More details here: https://curl.se/docs/sslcerts.ht
+http://strom.kbx.cz/	000	60	curl: (60) SSL: no alternative certificate subject name matches target host name 'strom.kbx.cz' More details here: https://curl.se/docs/sslcerts.html 
+http://www.ratolest.wz.cz/	000	60	curl: (60) SSL: no alternative certificate subject name matches target host name 'www.ratolest.wz.cz' More details here: https://curl.se/docs/sslcerts
+https://raks.mlp.cz/	403	0	
+https://raks.mlp.cz/library/mkp/	403	0	
+https://aleph.nkp.cz/F/?func=file&file_name=base-list	000	35	curl: (35) Recv failure: Connection reset by peer 
+http://aleph.nkp.cz/web/z3950_cze.htm	000	35	curl: (35) Recv failure: Connection reset by peer 
+http://www.vilemininozatisi.cz/	000	60	curl: (60) SSL: no alternative certificate subject name matches target host name 'www.vilemininozatisi.cz' More details here: https://curl.se/docs/ssl
+http://www.spolunapetrinach.cz/	200	0	

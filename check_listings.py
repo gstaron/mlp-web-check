@@ -7,13 +7,19 @@ from crawler import polite_get
 
 D = sys.argv[1] if len(sys.argv) > 1 else "data"
 links = json.load(open(f"{D}/akce_links.json"))
-out = {}
+try:
+    out = json.load(open(f"{D}/listings.json"))
+except FileNotFoundError:
+    out = {}
 for u, refs in links.items():
     p = urlsplit(u)
     if p.hostname not in ("www.mlp.cz", "mlp.cz"):
         continue
     keys = {k for k, _ in parse_qsl(p.query, keep_blank_values=True)}
     if not keys & {"nid_entityreference_filter", "field_event_type_target_id"}:
+        continue
+    if u in out:
+        out[u]["refs"] = refs
         continue
     try:
         r = polite_get(u)

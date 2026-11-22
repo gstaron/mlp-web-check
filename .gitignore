@@ -1,3 +1,4 @@
 data/crawl.log
 __pycache__/
-data/
+data/crawl.log
+data/external.log
