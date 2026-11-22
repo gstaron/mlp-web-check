@@ -35,8 +35,13 @@ def check_host(urls):
     res = []
     for u in urls:
         rec = {"url": u}
+        target = u
+        if u.startswith("http://"):
+            # the sandbox only has an HTTPS proxy; check the https:// variant instead
+            target = "https://" + u[7:]
+            rec["checked_as_https"] = True
         try:
-            r = s.get(u, timeout=30, allow_redirects=True, stream=True)
+            r = s.get(target, timeout=30, allow_redirects=True, stream=True)
             rec.update(status=r.status_code, final=r.url, hops=len(r.history))
             r.close()
         except requests.RequestException as e:

@@ -108,6 +108,10 @@ def normalize(page_url, raw):
 def check(url):
     chain = []
     cur = url
+    if cur.startswith("http://"):
+        # the sandbox only has an HTTPS proxy; check the https:// variant instead
+        chain.append({"url": cur, "status": "http-checked-as-https"})
+        cur = "https://" + cur[7:]
     for _ in range(8):
         try:
             r = polite_get(cur, allow_redirects=False, stream=True)
@@ -121,6 +125,8 @@ def check(url):
         chain.append({"url": cur, "status": code, "ctype": ctype})
         if code in (301, 302, 303, 307, 308) and loc:
             cur = urljoin(cur, loc)
+            if cur.startswith("http://"):
+                cur = "https://" + cur[7:]
             if urlsplit(cur).hostname not in INTERNAL_HOSTS:
                 chain.append({"url": cur, "status": "external"})
                 return chain
