@@ -51,13 +51,20 @@ def malformed_reason(raw):
         return None
     if low.startswith(("javascript:", "#", "data:")):
         return None
-    path = urlsplit(s).path
-    dpath = unquote(path)
-    if re.search(r"/[,;.:)]", dpath) or re.search(r"[,;:)]$", dpath) or re.search(r"[,;]\S", dpath.rsplit("/", 1)[-1]):
+    if s.startswith("//") and "." not in s[2:].split("/")[0]:
+        return "odkaz na interní síťový disk / soubor v počítači redakce (//SERVER/...)"
+    parts = urlsplit(s)
+    if parts.scheme in ("http", "https") and parts.hostname and "." not in parts.hostname:
+        return "neplatná doména – chybí www.mlp.cz (např. https://katalog/...)"
+    if parts.scheme and parts.scheme not in ("http", "https", "mailto", "tel", "javascript", "data"):
+        return f"neznámý protokol „{parts.scheme}:“ v adrese"
+    internal = not parts.hostname or parts.hostname in INTERNAL_HOSTS
+    dpath = unquote(parts.path)
+    if re.search(r"/[,;.:)(]", dpath) or re.search(r"[,;:(]$", dpath) or (internal and re.search(r"[,;(]", dpath)):
         return "v adrese je přilepená interpunkce/text (např. „,které“)"
-    if " " in dpath:
+    if " " in dpath.strip() or "%20" in parts.netloc:
         return "mezera uvnitř adresy"
-    if '"' in s or "<" in s or ">" in s:
+    if re.search(r'["<>]', parts.path + parts.query):
         return "uvozovky nebo HTML znaky v adrese"
     return None
 
